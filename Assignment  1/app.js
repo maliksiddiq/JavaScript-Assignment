@@ -54,7 +54,48 @@
 
 //  -------  question no 11  -----------
 
+//  var email = "maliksiddiqawan"
+//  alert (email+21+"@gmail.com");
 
+//  -------  question no 12  -----------
+
+//  var book = "A Smarter Way to Learn JavaScript";
+//  alert (book);
+
+//  -------  question no 13  -----------
+
+//  document.write("Yah! I can write HTML content through JavaScript")
+
+//  -------  question no 14  ----------- ?
+
+//  ? ----------------------------------------------------------------------------------
+
+
+//  Third   Chapter Variables for number !
+
+//  -------  question no 15  ----------- 
+
+//  var age = 20;
+//  alert ("I am " + age + " Years old");
+
+//  -------  question no 16  ----------- 
+
+//  var visitor = 14;
+//  alert ("You have visited this site" + " " + visitor + " " + "times")
+
+//  -------  question no 17  ----------- 
+
+// var birthYear = 2005;
+// document.write ("My Birth Year is" + " " + birthYear);
+
+
+//  -------  question no 18  ----------- 
+
+//  var visitorName = "Saad Ali";
+//  var quantity = 5;
+//  var productTitle = "T-Shirt(s)";
+
+//  document.write (visitorName + " " + "Ordered" + " " + quantity +" " + productTitle + " " + "Kifayah Clothing Store");
 
 
 
