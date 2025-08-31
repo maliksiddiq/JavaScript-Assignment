@@ -98,5 +98,63 @@
 //  document.write (visitorName + " " + "Ordered" + " " + quantity +" " + productTitle + " " + "Kifayah Clothing Store");
 
 
+//  Fourth    Chapter Variables Names LEGAL  &  ILLEGAL !
+
+//  -------  question no 19  ----------- 
+
+// var num1  = +prompt("Enter you number");
+// var num2  = +prompt("Enter you number");
+// var num3  = +prompt("Enter you number");
+
+// var addition = num1 + num2 + num3;
+// console.log(addition)
+
+// var addition = (num1 + num2 + num3) / 3;
+// console.log(addition)
+
+//  -------  question no 20  ----------- 
+
+//  Five leagl variables name ?
+
+// var userName = "Malik Siddiq";
+// var UserName = "Mahoob Ahmed";
+// var $userName = "Hussain";
+// var _userName = "Abdullah";
+// var user_Name = "Saad Ali";
+
+//  -------  question no 21  ----------- 
+
+//  Five illeagl variables name ?
+
+// var 123UserName
+// var @UserName
+// var var = 12
+// var #USerName =
+// var name% = 
+
+//  -------  question no 22  ----------- 
+
+// document.write ("<h1>Rules  fro naming JS variables</h1>");
+
+// document.write ("Variables name contain only. numbers.  $ and  _ . For example: 5my_1stvariables </br> ");
+// document.write ("Variables must begin with a letter $ or _  For example: $name or _name  name </br>");
+// document.write ("Variables names are case sensitive </br>");
+// document.write ("Variables names should not be JS keywords </br>");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
