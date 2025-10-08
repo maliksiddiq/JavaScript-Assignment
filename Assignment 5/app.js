@@ -158,6 +158,41 @@ console.log('JavaScript Connected!');
 
 // ------ Question no 15
 
+// let password = prompt("Enter your password:");
+
+// let hasAlphabet = false;
+// let hasNumber = false;
+
+// // Condition 1: Length check
+// if (password.length < 6) {
+//   alert("Password must be at least 6 characters long!");
+// } 
+// // Condition 2: Should not start with a number
+// else if (!isNaN(password[0])) {
+//   alert("Password should not start with a number!");
+// } 
+// else {
+//   // Condition 3: Check for alphabets and numbers
+//   for (let i = 0; i < password.length; i++) {
+//     let char = password[i];
+    
+//     if ((char >= 'a' && char <= 'z') || (char >= 'A' && char <= 'Z')) {
+//       hasAlphabet = true;
+//     }
+//     if (char >= '0' && char <= '9') {
+//       hasNumber = true;
+//     }
+//   }
+
+//   if (hasAlphabet && hasNumber) {
+//     alert("Valid password!");
+//   } else {
+//     alert("Password must contain both letters and numbers!");
+//   }
+// }
+
+
+
 // --------------------------------------------------------
 
 
@@ -181,5 +216,86 @@ console.log('JavaScript Connected!');
 
 // ------ Question no 18
 
+// let  sentence = 'The quick brown fox jumps over the lazy do';
+// let str = sentence.toLowerCase();
+// let words = str.split(' ');
 
+// let count = 0;
+
+// for (let i = 0; i <br str.length; i++) {
+
+//     if(words[i] === 'the' ) {
+//       count++; 
+//     }
+
+// }
+
+// console.log("Number of occurrences of 'the':", count);
+
+//  ---------------------------------------------------------------------------------------------------------------------------------
+
+
+//  Maths Methods
+
+// ------ Question no 19
+
+// let userInput = +prompt("Enter a positive integer:");
+
+// document.write("number: " + userInput + "<br>");
+// document.write("round off value: " + Math.round(userInput) + "<br>");
+// document.write("floor value: " + Math.floor(userInput) + "<br>");
+// document.write("ceil value: " + Math.ceil(userInput));
+
+
+
+// ------ Question no 20
+
+
+// let userInput = +prompt('Enter a negative floating point Number:');
+
+// document.write(`Number: ${userInput} </br>`)
+// document.write("round off value: " + Math.round(userInput) + "<br>");
+// document.write("floor value: " + Math.floor(userInput) + "<br>");
+// document.write("ceil value: " + Math.ceil(userInput));
+
+
+
+// ------ Question no 21
+
+
+// let userInput = +prompt("Enter a number:");
+
+// let absoluteValue = Math.abs(userInput);
+
+// document.write("The absolute value of " + userInput + " is " + absoluteValue);
+
+
+// ------ Question no 22
+
+// let diceValue = Math.floor(Math.random() * 6) + 1;
+
+// document.write("Random dice value: " + diceValue);
+
+
+// ------ Question no 23
+
+// let diceValue = Math.floor(Math.random() * 6) + 1;  // 1 to 6
+
+// if (diceValue % 2 === 0) {
+//   document.write("Random dice value: " + diceValue + "<br>");
+//   document.write("Random coin value: Tails");
+// } else {
+//   document.write("Random dice value: " + diceValue + "<br>");
+//   document.write("Random coin value: Heads");
+// }
+
+
+// ------ Question no 24
+
+// let random = Math.floor(Math.random() * 100 )+ 1;
+
+// document.write(`Random num between 1 and 100: ${random}`);
+
+
+// ------ Question no 24
 
