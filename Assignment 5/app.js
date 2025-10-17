@@ -1,4 +1,4 @@
-console.log('JavaScript Connected!');
+// console.log('JavaScript Connected!');
 
 //  Assignment No 5  JS ?
 
@@ -297,5 +297,5 @@ console.log('JavaScript Connected!');
 // document.write(`Random num between 1 and 100: ${random}`);
 
 
-// ------ Question no 24
+// ------ Question no 25
 
